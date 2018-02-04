@@ -1,0 +1,1 @@
+Prosty CRUD na CodeIgniter. Login:kasztan, hasło: kasztan
